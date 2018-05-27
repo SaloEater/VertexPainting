@@ -185,7 +185,6 @@ namespace Paint_Vertexex
                     else
                     {
                         List<int> single = new List<int>();
-                        //testc
                         single.Add(j);
                         boxY = VisualizeRow(copy, single, boxY, new int[0]);
                     }
